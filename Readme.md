@@ -14,7 +14,7 @@ How to reach me : [:mailbox:](mailto:anas.berka@insa-cvl.fr)[:mailbox:](mailto:a
 [![Instagram Badge](https://img.shields.io/badge/Anas%20Berka-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/anas_berka/)
 [![Facebook Badge](https://img.shields.io/badge/Anas%20Berka-%231877F2?logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fberka.anas%2F)](https://www.facebook.com/berka.anas/)
 [![Youtube Badge](https://img.shields.io/badge/Cj%20IGX-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@cjigx)
-![ROG Badge](https://img.shields.io/badge/Cj%20Baneraska-%23FF0029?logo=republicofgamers&logoColor=white)
+[![ROG Badge](https://img.shields.io/badge/Cj%20Baneraska-%23FF0029?logo=republicofgamers&logoColor=white)](#)
 
 
 ### What I currently Do
