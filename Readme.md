@@ -1,6 +1,6 @@
 ## Hello and welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Anas BERKA a PhD student in joint program between Morocco and France thanks to the funding from PHC-Toubkal .
+I'm Anas BERKA, a PhD student enrolled in a cotutelle thesis between Morocco and France thanks to PHC-Toubkal funding.
 
 How to reach me : [:mailbox:](mailto:anas.berka@insa-cvl.fr)[:mailbox:](mailto:anas.berka@edu.uiz.ac.ma)
 
@@ -19,7 +19,7 @@ How to reach me : [:mailbox:](mailto:anas.berka@insa-cvl.fr)[:mailbox:](mailto:a
 
 ### What I currently Do
 
-- 🔭 I’m currently preparing to defend my thesis 
+- 🔭 I am currently preparing the defense of my thesis 
 - :computer: Most used languages `C, C++ and Python`
 - ⚡ Fun fact: I play video games when ever I have free time.
 
