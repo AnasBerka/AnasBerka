@@ -17,9 +17,3 @@ How to reach me : [:mailbox:](mailto:anas.berka@insa-cvl.fr)[:mailbox:](mailto:a
 [![ROG Badge](https://img.shields.io/badge/Cj%20Baneraska-%23FF0029?logo=republicofgamers&logoColor=white)](#)
 
 
-### What I currently Do
-
-- 🔭 I am currently searching for a job... 
-- :computer: Most used languages `C, C++, C# and Python`
-- ⚡ Fun fact: I play video games when ever I have free time.
-
