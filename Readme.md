@@ -2,7 +2,7 @@
 
 My name is Anas BERKA, I'm a PhD in Computer Science & AI, I obtained it through a cotutelle thesis between Morocco and France thanks to PHC-Toubkal funding.
 
-How to reach me : [:mailbox:](mailto:anas.berka@insa-cvl.fr)[:mailbox:](mailto:anas.berka@edu.uiz.ac.ma)
+How to reach me : [:mailbox:](mailto:anas.berka@insa-cvl.fr)[:mailbox:](mailto:a.berka@uca.ac.ma)
 
 [![ResearchGate Badge](https://img.shields.io/badge/Anas--Berka-%2300CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Anas-Berka)
 [![ORCID Badge](https://img.shields.io/badge/Anas%20Berka-%23A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6282-3972)
