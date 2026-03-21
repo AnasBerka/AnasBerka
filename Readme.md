@@ -9,9 +9,6 @@ How to reach me : [:mailbox:](mailto:anas.berka@insa-cvl.fr)[:mailbox:](mailto:a
 [![LinkedIn Badge](https://img.shields.io/badge/Anas%20Berka-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berka-anas/)
 [![GSchoolar Badge](https://img.shields.io/badge/Anas%20Berka-%234285F4?logo=googlescholar&logoColor=white)](https://scholar.google.fr/citations?hl=en&user=PfDGzbUAAAAJ&authuser=1)
 [![Github Badge](https://img.shields.io/badge/AnasBerka-%23181717?logo=github&logoColor=white)](https://github.com/AnasBerka)
-
-
-[![Instagram Badge](https://img.shields.io/badge/Anas%20Berka-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/anas_berka/)
-[![Facebook Badge](https://img.shields.io/badge/Anas%20Berka-%231877F2?logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fberka.anas%2F)](https://www.facebook.com/berka.anas/)
+[![Youtube Badge](https://img.shields.io/badge/Baneraska-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@Baneraska)
 [![Youtube Badge](https://img.shields.io/badge/Cj%20IGX-%23FF0000?logo=youtube&logoColor=white)](https://youtube.com/@cjigx)
 [![ROG Badge](https://img.shields.io/badge/Cj%20Baneraska-%23FF0029?logo=republicofgamers&logoColor=white)](#)
